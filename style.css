@@ -1,0 +1,86 @@
+/** {*/
+  /*box-sizing: border-box;*/
+  /*text-align: center;*/
+  /*border: 1px solid;*/
+
+
+
+
+#header {
+  /*padding: 42px;*/
+  /*margin-bottom: 20px;*/
+  color: black;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  background-color: #ffffff; 
+  border-color: #cccccc;  
+
+}
+
+h1 {
+  color: white;
+  background-color: #4aaaa5;
+  font-family: 'Calibri', sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  padding: 5px, 5px, 5px, 5px;
+  margin: 0;
+  text-align: center;
+  float: left;
+
+}
+
+
+h2 {
+  color: #004E89;
+  font-family: 'Calibri', sans-serif;
+  font-size: 30px;
+  font-weight: 200;
+  margin: 0;  
+  text-align: center;
+  float: right;
+  margin: .075cm .075cm;
+}
+
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+
+
+body{
+	background-image: url("../images/ep_naturalwhite.png");
+  padding: 10px;
+  width: 80%;
+  margin: auto;
+
+}
+
+#maincontent{
+  border-color: #dddddd;
+  font-color: #4aaaa5; 
+  float: left;
+  /*width: 45%;*/
+  /*height: 250px;*/
+  margin-bottom: 50px;
+}
+
+#asidecontent{
+  font-color: #777777;
+  background-color: #ffffff;
+  float: right;
+  width: 43%;
+  height: 250px;
+  margin-bottom: 50px;
+}
+
+footer{
+
+  clear: both;
+  background-color: #666666;
+
+}
